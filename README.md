@@ -17,7 +17,7 @@ Dean W. Wichern published published in 2007 by Pearson Education and the book Ap
 
 4. **Classic Blue Pullovers Data**
 
-5 **U.S. Companies Data**
+5. **U.S. Companies Data**
 
 6. **French Food Data**
 
@@ -50,3 +50,7 @@ Dean W. Wichern published published in 2007 by Pearson Education and the book Ap
 20. **Annual Population Data**
 
 21. **Bankruptcy Data**
+
+## References
+
+\[1\] http://sfb649.wiwi.hu-berlin.de/fedc_homepage/xplore/ebooks/html/mva/mvahtml.html
